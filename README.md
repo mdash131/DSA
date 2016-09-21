@@ -41,6 +41,11 @@ output for Linear Search
 [img14]:https://github.com/mdash131/DSA/blob/master/linearsearch/LinearSearch2.PNG
 
 
+output for SumAveMax
+
+![alt text][img15]
+
+[img125]:https://github.com/mdash131/DSA/blob/master/sumavemax/SumAveMax.PNG
 
 
 
