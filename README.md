@@ -45,7 +45,7 @@ output for SumAveMax
 
 ![alt text][img15]
 
-[img125]:https://github.com/mdash131/DSA/blob/master/sumavemax/SumAveMax.PNG
+[img15]:https://github.com/mdash131/DSA/blob/master/sumavemax/SumAveMax.PNG
 
 
 
