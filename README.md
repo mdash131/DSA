@@ -55,11 +55,20 @@ output for FindMinMax
 
 [img12]:https://github.com/mdash131/DSA/blob/master/findminmax/FindMinMax.PNG
 
+output for Bubble-Sort
+
+![alt text][img16]
+
+[img16]:https://github.com/mdash131/DSA/blob/master/bubblesort/BubbleSort.PNG
 
 
+output for BinarySearch
 
+![alt text][img17]
+![alt text][img18]
 
-
+[img17]: https://github.com/mdash131/DSA/blob/master/binarysearch/randombinarysearch1.PNG
+[img18]: https://github.com/mdash131/DSA/blob/master/binarysearch/randombinarysearch2.PNG
 
 
 
