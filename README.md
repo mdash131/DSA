@@ -32,6 +32,24 @@ output for array stack
 [img11]:https://github.com/mdash131/DSA/blob/master/arraystack/stack6.PNG
 
 
+output for Linear Search
+
+![alt text][img13]
+![alt text][img14]
+
+[img13]:https://github.com/mdash131/DSA/blob/master/linearsearch/LinearSearch1.PNG
+[img14]:https://github.com/mdash131/DSA/blob/master/linearsearch/LinearSearch2.PNG
+
+
+
+
+
+output for FindMinMax
+
+![alt text][img12]
+
+[img12]:https://github.com/mdash131/DSA/blob/master/findminmax/FindMinMax.PNG
+
 
 
 
